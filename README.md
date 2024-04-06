@@ -1,6 +1,6 @@
 <div>
 
-<img height='200' width='100%' src="./assets/oreki-black-and-white-wind.gif"/>
+<img height='200' width='100%' src="https://media1.tenor.com/m/R8wjCxS2MCgAAAAC/oreki-black-and-white-wind.gif"/>
 
 </div>
 
@@ -25,7 +25,7 @@
 ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=fff)
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=fff)
 ![redux](https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux&logoColor=fff)
-![redux-toolkit](https://img.shields.io/badge/redux-toolkit-000?style=for-the-badge&logo=redux-toolkit&logoColor=fff)
+![toolkit](https://img.shields.io/badge/toolkit-000?style=for-the-badge&logo=toolkit&logoColor=fff)
 ![mobx](https://img.shields.io/badge/mobx-000?style=for-the-badge&logo=mobx&logoColor=fff)
 ![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=fff)
 ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=fff)
