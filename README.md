@@ -1,6 +1,6 @@
 <div>
 
-<img height='200' width='100%' src="https://media1.tenor.com/m/R8wjCxS2MCgAAAAC/oreki-black-and-white-wind.gif"/>
+<img height='200' width='100%' src="https://github.com/otsairaze/otsairaze/blob/main/assets/3Rbt.gif"/>
 
 </div>
 
