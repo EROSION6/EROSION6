@@ -32,7 +32,6 @@
 ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=fff)
 ![less](https://img.shields.io/badge/less-000?style=for-the-badge&logo=less&logoColor=fff)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![shadcn](https://img.shields.io/badge/shadcn-000?style=for-the-badge&logo=shadcn&logoColor=fff)
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=fff)
 ![reactrouter](https://img.shields.io/badge/reactrouter-000?style=for-the-badge&logo=reactrouter&logoColor=fff)
 ![reacthookform](https://img.shields.io/badge/reacthookform-000?style=for-the-badge&logo=reacthookform&logoColor=fff)
@@ -40,7 +39,7 @@
 ### 𒌐 UI Library:
 
 ![mui](https://img.shields.io/badge/mui-000?style=for-the-badge&logo=mui&logoColor=fff)
-![antdesign](https://img.shields.io/badge/antdesign-000?style=for-the-badge&logo=antdesign&logoColor=fff)
+![shadcn](https://img.shields.io/badge/shadcn-000?style=for-the-badge&logo=shadcn&logoColor=fff)
 
 ### 𒌐 Code Pluggins:
 
