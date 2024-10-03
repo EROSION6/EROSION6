@@ -25,6 +25,7 @@
 ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=fff)
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=fff)
 ![vue](https://img.shields.io/badge/vue-000?style=for-the-badge&logo=vue&logoColor=fff)
+![vuex](https://img.shields.io/badge/vuex-000?style=for-the-badge&logo=vuex&logoColor=fff)
 ![redux](https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux&logoColor=fff)
 ![toolkit](https://img.shields.io/badge/toolkit-000?style=for-the-badge&logo=toolkit&logoColor=fff)
 ![mobx](https://img.shields.io/badge/mobx-000?style=for-the-badge&logo=mobx&logoColor=fff)
